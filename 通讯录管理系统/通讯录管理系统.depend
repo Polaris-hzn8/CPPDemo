@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1625746452 source:e:\2021年3月春学期\1.面向对象程序设计\3.黑马程序员\cpp演示\通讯录管理系统\main.cpp
+	<iostream>
+	<string>
+
